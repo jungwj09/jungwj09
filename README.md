@@ -6,6 +6,12 @@
 - 제품을 끝까지 구현할 수 있는 개발자가 되기 위해 최근에는 백엔드와 UI/UX 디자인 역량을 기르고 있습니다.
 - [선린인터넷고등학교](https://sunrint.sen.hs.kr/)에서 **소프트웨어**를 전공하며 개발을 공부하고 있습니다.
 
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jungwj09/jungwj09/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jungwj09/jungwj09/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jungwj09/jungwj09/output/github-contribution-grid-snake.svg">
+</picture> -->
+
 ---
 
 ### 🛠️ 기술 스택
@@ -31,6 +37,14 @@
 
 #### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jungwj09/jungwj09/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jungwj09/jungwj09/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jungwj09/jungwj09/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
