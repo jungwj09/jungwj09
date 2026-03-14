@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> 사람과 사회에 긍정적인 임팩트를 만드는 개발자, 정우진입니다.
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> 사람과 사회에 긍정적인 임팩트를 만드는 개발자, [정우진](https://jungwj09.dev/)입니다.
 
 🚀 **Startup Founder**를 목표로, 문제를 정의하고 실행으로 해결하는 개발자로 성장하고 있습니다.
 
