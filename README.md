@@ -6,12 +6,6 @@
 - 제품을 끝까지 구현할 수 있는 개발자가 되기 위해 최근에는 백엔드와 UI/UX 디자인 역량을 기르고 있습니다.
 - [선린인터넷고등학교](https://sunrint.sen.hs.kr/)에서 **소프트웨어**를 전공하며 개발을 공부하고 있습니다.
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jungwj09/jungwj09/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jungwj09/jungwj09/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jungwj09/jungwj09/output/github-contribution-grid-snake.svg">
-</picture> -->
-
 ---
 
 ### 🛠️ 기술 스택
@@ -49,7 +43,7 @@
 ---
 
 ### 📬 연락처
-- Gmail: <a href="mailto:woox1jin@gmail.com">woox1jin@gmail.com</a>
+- Gmail: <a href="mailto:me@jungwj09.dev">me@jungwj09.dev</a>
 - Linkedin: <a href="https://www.linkedin.com/in/jungwj09/">in/jungwj09</a>
 - Discord: <a href="https://discord.com/users/1326453569666154508" target="_blank">jungwj09</a> 
-- Instagram: <a href="https://www.instagram.com/woox1jin_/" target="_blank">@woox1jin_</a>
+- Instagram: <a href="https://www.instagram.com/jungwj09.dev/" target="_blank">@jungwj09.dev</a>
