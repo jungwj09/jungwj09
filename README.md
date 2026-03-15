@@ -43,7 +43,7 @@
 ---
 
 ### 📬 연락처
-- Gmail: <a href="mailto:me@jungwj09.dev">me@jungwj09.dev</a>
+- Email: <a href="mailto:me@jungwj09.dev">me@jungwj09.dev</a>
 - Linkedin: <a href="https://www.linkedin.com/in/jungwj09/">in/jungwj09</a>
 - Discord: <a href="https://discord.com/users/1326453569666154508" target="_blank">jungwj09</a> 
 - Instagram: <a href="https://www.instagram.com/jungwj09.dev/" target="_blank">@jungwj09.dev</a>
