@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ 기술 스택
+### 🛠️ Tech Stack
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -16,7 +16,12 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 #### App (Mobile & Desktop)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
@@ -24,14 +29,20 @@
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=flat&logo=electron&logoColor=9FEAF9)
 
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+#### Database & BaaS
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=3ECF8E)
 
 #### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 🏆 Awards
+- 제1회 SCSC 온라인 해커톤 3등
+- 2026 춘천시 데이터 활용 해커톤 노력상
+- GEEKs Hackathon 2026 우수상
 
 ---
 
@@ -43,8 +54,7 @@
 
 ---
 
-### 📬 연락처
+### 📬 Contact
 - Email: <a href="mailto:me@jungwj09.dev">me@jungwj09.dev</a>
-- Linkedin: <a href="https://www.linkedin.com/in/jungwj09/">in/jungwj09</a>
 - Discord: <a href="https://discord.com/users/1326453569666154508" target="_blank">jungwj09</a> 
 - Instagram: <a href="https://www.instagram.com/jungwj09.dev/" target="_blank">@jungwj09.dev</a>
